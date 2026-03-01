@@ -69,7 +69,7 @@ FOSS Hack welcomes contributions beyond just writing code:
 
 | Date | Milestone |
 |---|---|
-| March 2, 2026 | Orientation Call (Online) — Kickoff, intro to FOSS Hack, team formations |
+| March 1, 2026 | Orientation Call (Online) — Kickoff, intro to FOSS Hack, team formations |
 | March 7, 2026 | Week 1 Update Call — Discuss initial progress, architecture, and blockers |
 | March 14, 2026 | Week 2 Update Call — Mid-point review, core features should be taking shape |
 | March 21, 2026 | Week 3 Update Call — Final stretch, focus on bug fixes, polish, and documentation |
